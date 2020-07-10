@@ -2,22 +2,19 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <strong>Postdoctoral Research Scientist, <br>Lawrence Berkeley National Laboratory</br></strong>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jasonmunro.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true
-social: true
+news: false
+social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a scientist working at the intersection of <strong>materials science</strong>, <strong>informatics</strong>, and <strong>high-performance computing</strong>. Currently, I am a postdoctoral researcher in the group of <strong>[Kristin Persson](https://perssongroup.lbl.gov/)</strong> at Lawrence Berkeley National Laboratory.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Much of my research focuses on leveraging physical symmetries and informatics based tools to help in the computational design and discovery of new materials. I am also actively involved in the development of the <strong>[Materials Project](https://materialsproject.org/)</strong>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Listed here are <strong>[software packages](/code/)</strong> I have contributed to and <strong>[articles](/publications/)</strong> I have published as part of my research. For more details about my work, please see my full <strong>[cv](/assets/pdf/cv.pdf)</strong>.
